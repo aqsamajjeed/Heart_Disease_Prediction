@@ -55,10 +55,10 @@ The dataset contains patient-level information like:
 
 ### ✅ Hypothesis Testing:
 1. **High Cholesterol causes more heart disease?**
-   - ❌ Null not rejected (p = 0.0527)
+   -  Null Hypothesis not rejected (p = 0.0527)
 
 2. **Males have more heart disease than females?**
-   - ✅ Null rejected (p < 0.00001)
+   -  Null Hypothesis rejected (p < 0.00001)
 
 ---
 
