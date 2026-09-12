@@ -50,10 +50,10 @@ The dataset contains patient-level information like:
 
 ## 🔬 Statistical Analysis
 
-### ✅ Correlation Heatmap:
+###  Correlation Heatmap:
 - Revealed strong correlations between some features.
 
-### ✅ Hypothesis Testing:
+###  Hypothesis Testing:
 1. **High Cholesterol causes more heart disease?**
    -  Null Hypothesis not rejected (p = 0.0527)
 
@@ -62,13 +62,13 @@ The dataset contains patient-level information like:
 
 ---
 
-## 🤖 Model Training
+##  Model Training
 
 - **Model Used:** Logistic Regression
 - **Target Variable:** Heart Disease (binary: 0 = Absence, 1 = Presence)
 - **Training Ratios Tested:** 80%, 60%, and 50%
 
-### 🔍 Results Summary:
+###  Results Summary:
 
 | Split | Accuracy | Precision | Recall | MAE   |
 |-------|----------|-----------|--------|--------|
@@ -78,9 +78,9 @@ The dataset contains patient-level information like:
 
 ---
 
-## 📈 Evaluation Metrics
+##  Evaluation Metrics
 
-- ✅ **Confusion Matrix**
+-  **Confusion Matrix**
 - ✅ **Classification Report** (Precision, Recall, F1-Score)
 - ✅ **Mean Absolute Error (MAE)**
 
