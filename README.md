@@ -48,7 +48,7 @@ The dataset contains patient-level information like:
 
 ---
 
-## 🔬 Statistical Analysis
+##  Statistical Analysis
 
 ###  Correlation Heatmap:
 - Revealed strong correlations between some features.
@@ -81,20 +81,20 @@ The dataset contains patient-level information like:
 ##  Evaluation Metrics
 
 -  **Confusion Matrix**
-- ✅ **Classification Report** (Precision, Recall, F1-Score)
-- ✅ **Mean Absolute Error (MAE)**
+-  **Classification Report** (Precision, Recall, F1-Score)
+-  **Mean Absolute Error (MAE)**
 
 Confusion matrices were visualized using heatmaps for clarity.
 
 ---
 
-## 💡 Final Conclusion
+##  Final Conclusion
 
 > The logistic regression model performed best with an 80/20 train-test split, achieving **92.6% accuracy** and **high precision**, showing its reliability in identifying heart disease cases. However, recall values suggest room for improvement in minimizing false negatives.
 
 ---
 
-## 🧠 Learning Outcomes
+##  Learning Outcomes
 - Learned how to clean, preprocess, and visualize real-world health data
 - Developed end-to-end data analysis skills, including statistical hypothesis testing
 - Built and tuned a logistic regression model using scikit-learn
@@ -102,7 +102,7 @@ Confusion matrices were visualized using heatmaps for clarity.
 - Gained hands-on experience with bivariate analysis and heatmap correlation
 - Improved interpretation skills in healthcare-related machine learning
 
-## 🚀 How to Run
+##  How to Run
 
 ###  Requirements
 - Python 3.x
