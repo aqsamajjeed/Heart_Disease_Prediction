@@ -1,12 +1,12 @@
-# ❤️ Heart Disease Prediction using Logistic Regression
+#  Heart Disease Prediction using Logistic Regression
 
-## 🧠 Project Overview
+##  Project Overview
 
 This project aims to build a reliable heart disease prediction system using machine learning. It involves extensive data preprocessing, exploratory data analysis, statistical testing, and training a logistic regression model on cleaned data. The model helps in predicting whether a person is likely to have heart disease based on various medical parameters.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 The dataset contains patient-level information like:
 
@@ -23,7 +23,7 @@ The dataset contains patient-level information like:
 
 ---
 
-## 🧹 Data Preprocessing
+##  Data Preprocessing
 
 - ✅ Handled missing values (none found)
 - ✅ Removed duplicate records
