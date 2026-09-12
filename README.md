@@ -104,11 +104,11 @@ Confusion matrices were visualized using heatmaps for clarity.
 
 ## 🚀 How to Run
 
-### 🛠️ Requirements
+###  Requirements
 - Python 3.x
 - Libraries: `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `scipy`
 
-### 💻 Steps to Execute
+###  Steps to Execute
 
 1. Clone the repository or download the notebook.
 2. Install the required libraries:
