@@ -25,22 +25,22 @@ The dataset contains patient-level information like:
 
 ##  Data Preprocessing
 
-- ✅ Handled missing values (none found)
-- ✅ Removed duplicate records
-- ✅ Renamed columns for clarity
-- ✅ Dropped unnecessary features:
+-  Handled missing values (none found)
+-  Removed duplicate records
+-  Renamed columns for clarity
+-  Dropped unnecessary features:
   - FBS over 120, EKG results, Exercise angina, ST depression, Slope of ST, Number of vessels fluro, Thallium
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+##  Exploratory Data Analysis (EDA)
 
-### ✅ Univariate Analysis:
+###  Univariate Analysis:
 - Frequency distributions and histograms for:
   - Age, Gender, Chest Pain Type, Blood Pressure, Cholesterol, Max Heart Rate
 - Count plots for Gender and Chest Pain Types
 
-### ✅ Bivariate Analysis:
+###  Bivariate Analysis:
 - Plots showing the relationship between:
   - Age vs Cholesterol
   - Age vs Blood Pressure
