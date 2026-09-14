@@ -8,7 +8,7 @@ This project aims to build a reliable heart disease prediction system using mach
 
 ##  Dataset
 
-The dataset contains patient-level information like:
+The dataset contains *patient-level information* like:
 
 - Age
 - Gender
